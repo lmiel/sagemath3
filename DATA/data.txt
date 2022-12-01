@@ -1,0 +1,6 @@
+#TENEMOS QUE RESOLVER LAS SIGUIENTES ECUACIONES
+^3 − x = 7*x^2 − 7
+|t − 7| ≥ 3
+2x+y=17, x−3y=−16
+comando find_root
+exp(x) = cos(x) con intervalo [−π/2, 0]
